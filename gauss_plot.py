@@ -54,6 +54,8 @@ ax.set_xlim(-4, 4)
 ax.set_ylim(-0.1, 1.1)
 
 ax.text(0, 0.4, '68%', fontsize=12, color='w', va='center', ha='center')
+plt.text(-3, 1, 'Rodrigo Perez', fontsize=9, color='r', va='center', ha='center')
+plt.text(-3, 0.8, 'rodrigo_perez_28@yahoo.cl', fontsize=9, color='r', va='center', ha='center')
 
 fig.subplots_adjust(bottom=0.30)
 
